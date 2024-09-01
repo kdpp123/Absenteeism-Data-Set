@@ -20,3 +20,5 @@ Experiment with more advanced algorithms like Gradient Boosting or Neural Networ
 Fine-tune hyperparameters to improve model performance.
 Explore additional features to enhance prediction accuracy.
 Dataset: The absenteeism dataset was used to build the prediction model, including personal, work-related, and other factors contributing to absenteeism. Dataset is already provided in files.
+
+Tableau: At last the results of the predicted data is fetch to Tableau to produce some visual insights
