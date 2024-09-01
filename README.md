@@ -5,9 +5,11 @@ Description: This project focuses on predicting whether an employee will be abse
 Key Features:
 
 Data Preprocessing: Cleaned and preprocessed the dataset to handle missing values, categorical variables, and feature scaling.
-Model Building: Built and trained several machine learning models, including Logistic Regression, Decision Trees, and Random Forests, to predict absenteeism.
+Model Building: Built and trained machine learning model Logistic Regression.
+Outlining the model: Model is created using python module
 Feature Importance: Analyzed the importance of different features like distance from work, number of children, pets, and other factors to understand their influence on absenteeism.
 Prediction Accuracy: Evaluated model performance using accuracy, precision, recall, and other relevant metrics to ensure reliable predictions.
+Prediction on new_data: At last the prediction is made on the new data set with our absenteeism module.
 How to Use:
 
 Clone the repository.
